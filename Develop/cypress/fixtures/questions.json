@@ -1,0 +1,22 @@
+[
+  {
+    "_id": "1",
+    "question": "What is the capital of Taiwan?",
+    "answers": [
+      { "text": "Tainan", "isCorrect": false },
+      { "text": "Taipei", "isCorrect": true },
+      { "text": "Kaohsiung", "isCorrect": false },
+      { "text": "Taichung", "isCorrect": false }
+    ]
+  },
+  {
+    "_id": "2",
+    "question": "What is the Mandarin Chinese for horse?",
+    "answers": [
+      { "text": "gou", "isCorrect": false },
+      { "text": "mao", "isCorrect": false },
+      { "text": "ma", "isCorrect": true },
+      { "text": "niu", "isCorrect": false }
+    ]
+  }
+]
